@@ -1,0 +1,13 @@
+title: Setting Python turtle world coordinates
+hero_image: images/banner.png
+description: Setting Python turtle world coordinates
+original_url: 
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: false
+interests: "graphics"
+technologies: "python, turtle"
+steps:
+  - title: World coordinates
